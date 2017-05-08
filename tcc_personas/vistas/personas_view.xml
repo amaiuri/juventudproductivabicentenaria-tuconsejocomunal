@@ -13,6 +13,7 @@
                             <field name='familia_id'/>
                             <field string="Correo" name='login'/>
                             <field name='cedula'/>
+                            <field name='rif'/>
                             <field name='name'/>
                             <field name='s_nombre'/>
                             <field name='p_apellido'/>
@@ -22,6 +23,12 @@
                             <field name='nacionalidad'/>
                             <field name='telefono'/>
                             <field name='sexo'/>
+                            <field name='grado_educa'/>
+                            <field name='profesion'/>
+                            <field name='discapacidad'/>
+                            <field name='jefe'/>
+                            <field name='trabaja'/>
+                            <field name='etnia'/>
                             <field name='status'/>
                             <field name='active'/>
                         </group>
